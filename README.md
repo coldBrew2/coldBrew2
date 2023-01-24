@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/MySQL-#4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF"/></a>
 
 
 <!--
