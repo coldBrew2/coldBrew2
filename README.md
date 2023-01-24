@@ -1,22 +1,8 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=270&section=footer&text=Hello%20World&fontSize=80&fontColor=FFFFFF&fontAlignY=60&desc=noobDev&descSize=30&descAlign=68&descAlignY=80" />
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF"/></a>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=spring&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=FFFFFF"/>
 
-
-<!--
-**coldBrew2/coldBrew2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldBrew2&show_icons=true&theme=vue)
